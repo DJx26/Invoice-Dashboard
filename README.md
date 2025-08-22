@@ -1,4 +1,3 @@
-
 # 🏭 Invoice Management Dashboard (Local, OCR-powered)
 
 This is a **local Streamlit app** for uploading invoice images (JPG/PNG), extracting key fields via **OCR**, 
