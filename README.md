@@ -12,6 +12,7 @@ and an Excel export. Company name is configurable in the sidebar.
 - **Export**: one-click Excel with multiple sheets
 - **Branding**: add your own logo in `assets/logo.png` and set company name in the app
 
+
 ## 🧰 Tech Stack
 - Python, Streamlit
 - SQLite (file-based DB)
