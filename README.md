@@ -8,7 +8,6 @@ and an Excel export. Company name is configurable in the sidebar.
 - Upload invoice images → auto-extract **Seller, Invoice Date, Amount**
 - Store to **SQLite** (local file `invoices.db`)
 - **Filters**: seller + date range
-- 
 - **Charts**: seller-wise bar chart, monthly trend, seller contribution pie
 - **Export**: one-click Excel with multiple sheets
 - **Branding**: add your own logo in `assets/logo.png` and set company name in the app
